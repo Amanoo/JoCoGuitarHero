@@ -1,6 +1,6 @@
 # JoCoGuitarHero
 
-This project is meant to be charts, music, etc for various Jonathan Coulton songs in Clone Hero or other Guitar Hero clones. Many of the song packs for these kinds of games are outright bad. They will often just contain one track, which is all the different instruments, voice, etc in one file. If you play a wrong note, the entire music will become more quite or outright muted. That is not a good experience. Moreover, tabs are often only on one difficulty level. Not great either. This project aims to give high quality songs/charts/tabs for Guitar Hero, using freely distributed material from JoCo himself.
+This project is meant to be charts, music, etc for various Jonathan Coulton songs in Clone Hero or other Guitar Hero clones. Many of the song packs for these kinds of games are outright bad. They will often just contain one track, which is all the different instruments, voice, etc in one file. If you play a wrong note, the entire music will become more quite or outright muted. That is not a good experience. Moreover, tabs are often only on one difficulty level. Not great either. This project aims to give high quality songs/charts/tabs for Guitar Hero, using freely distributed material from JoCo himself. At minimum, the project wil have 4 difficulty levels for guitar, and properly separated tracks. Extra instruments are also a possibility, bass guitar being the most important secondary instrument.
 
 Tracks to be used can be legally downloaded from here: https://archive.org/details/JonathanCoultonJoCoLooksBackSourceTracks
 
